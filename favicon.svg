@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192" width="192" height="192" role="img" aria-label="Banner Lab">
+  <defs>
+    <linearGradient id="g" x1="20" y1="16" x2="172" y2="176" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#635BFF"/>
+      <stop offset="1" stop-color="#9B8CFF"/>
+    </linearGradient>
+  </defs>
+  <rect width="192" height="192" rx="42" fill="url(#g)"/>
+  <rect x="35" y="48" width="122" height="96" rx="18" fill="#fff" fill-opacity=".97"/>
+  <path d="M77 74h46M77 96h30M77 118h40" fill="none" stroke="#635BFF" stroke-width="12" stroke-linecap="round"/>
+  <path d="m126 115 18-12-18-12z" fill="#172033"/>
+</svg>
